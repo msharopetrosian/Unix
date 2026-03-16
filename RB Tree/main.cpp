@@ -1,4 +1,4 @@
-#include "rbtree.h"
+#include "rbtree.cpp"
 #include <iostream>
 
 int main() {
